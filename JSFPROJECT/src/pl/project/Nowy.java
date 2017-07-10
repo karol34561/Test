@@ -1,3 +1,4 @@
+package pl.project;
 
 public class Nowy {
 
