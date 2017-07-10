@@ -2,7 +2,7 @@
 public class Nowy {
 
 	public static void main(String[] args) {
-		//wqwq
+		//nowy
 
 	}
 
